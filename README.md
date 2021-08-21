@@ -1,4 +1,4 @@
-# Hi, I am Dunfrey P. Aragão
+# Hi, I am Dunfrey P. Aragão [![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://dunfrey.github.io/home)
 
 I am a Ph.D. Student at UFRN, searching and trying to comprehend the COVID-19's dynamics in Brazil. Also, a deep-learning and machine-learning enthusiast.
 
@@ -16,4 +16,5 @@ I am passionate about helping people and be useful to the community.
 
 
 ## Get in touch
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/dunfrey) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dunfrey@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/dunfrey) 
+
