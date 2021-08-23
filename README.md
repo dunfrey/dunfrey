@@ -1,8 +1,10 @@
-# Hi, I am Dunfrey P. Aragão [![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://dunfrey.github.io/home)
+# Hi there 👋, I'm Dunfrey P. Aragão [![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://dunfrey.github.io/home)
 
-I am a Ph.D. Student at UFRN, searching and trying to comprehend the COVID-19's dynamics in Brazil. Also, a deep-learning and machine-learning enthusiast.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/dunfrey)
+  
+Ph.D. Student | Deep- and machine-learning enthusiast.
 
-I am passionate about helping people and be useful to the community.
+![info](https://github-readme-stats.vercel.app/api?username=dunfrey)
 
 ## ⚡ Tech Stack
 
@@ -11,10 +13,4 @@ I am passionate about helping people and be useful to the community.
 
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
   
-![Github](https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
-
-
-
-## Get in touch
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/dunfrey) 
-
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Github](https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
