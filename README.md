@@ -1,10 +1,12 @@
-# Hi there 👋, I'm Dunfrey P. Aragão [![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://dunfrey.github.io/home)
+# Hi there 👋, I'm Dunfrey P. Aragão
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/dunfrey)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/dunfrey) 
   
 Ph.D. Student | Deep- and machine-learning enthusiast.
 
 ![info](https://github-readme-stats.vercel.app/api?username=dunfrey)
+
+[![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://dunfrey.github.io/home)
 
 ## ⚡ Tech Stack
 
