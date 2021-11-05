@@ -16,3 +16,13 @@ Ph.D. Student | Deep- and machine-learning enthusiast.
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
   
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Github](https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
+
+# 🌟 Updates 🌟
+
+(11/4/2021) International Journal of Environmental Research and Public Health 
+
+- [National Holidays and Social Mobility Behaviors: Alternatives for Forecasting COVID-19 Deaths in Brazil](https://www.mdpi.com/1660-4601/18/21/11595)
+
+(7/3/2020) International Conference on Systems, Signals and Image Processing (IWSSIP)
+
+- [SpaceYNet: A Novel Approach to Pose and Depth-Scene Regression Simultaneously](https://ieeexplore.ieee.org/document/9145427)
