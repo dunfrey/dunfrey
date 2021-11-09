@@ -19,10 +19,14 @@ Ph.D. Student | Deep- and machine-learning enthusiast.
 
 # 🌟 Latest Publications 🌟
 
+(11/9/2021) Environmental Research
+
+- [Multivariate data driven prediction of COVID-19 dynamics: Towards new results with temperature, humidity and air quality data](https://www.sciencedirect.com/science/article/abs/pii/S0013935121016492?via%3Dihub)
+
 (11/4/2021) International Journal of Environmental Research and Public Health 
 
 - [National Holidays and Social Mobility Behaviors: Alternatives for Forecasting COVID-19 Deaths in Brazil](https://www.mdpi.com/1660-4601/18/21/11595)
 
-(7/3/2020) International Conference on Systems, Signals and Image Processing (IWSSIP)
+(7/3/2020) International Conference on Systems, Signals and Image Processing
 
 - [SpaceYNet: A Novel Approach to Pose and Depth-Scene Regression Simultaneously](https://ieeexplore.ieee.org/document/9145427)
