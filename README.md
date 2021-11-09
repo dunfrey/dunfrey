@@ -17,7 +17,7 @@ Ph.D. Student | Deep- and machine-learning enthusiast.
   
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Github](https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 
-# 🌟 Updates 🌟
+# 🌟 Latest Publications 🌟
 
 (11/4/2021) International Journal of Environmental Research and Public Health 
 
