@@ -16,6 +16,10 @@ Ph.D. Student | Deep- and machine-learning enthusiast
 
 - [National Holidays and Social Mobility Behaviors: Alternatives for Forecasting COVID-19 Deaths in Brazil](https://www.mdpi.com/1660-4601/18/21/11595)
 
+(10/12/2021) 2021 Latin American Robotics Symposium (LARS)
+
+- [Comparison Between Two Recurrent Multitasking Networks for Robot Relocation](https://ieeexplore.ieee.org/document/9605396)
+
 (7/3/2020) International Conference on Systems, Signals and Image Processing
 
 - [SpaceYNet: A Novel Approach to Pose and Depth-Scene Regression Simultaneously](https://ieeexplore.ieee.org/document/9145427)
