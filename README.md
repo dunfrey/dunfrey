@@ -9,7 +9,7 @@ Ph.D. Student | Deep- and machine-learning enthusiast
 
 (4/1/2022) Springer - Disruptive Technologies and Digital Transformations for Society 5.0
 
-- Chapter 5 - [Epidemiology Forecasting of COVID-19 Using AI—A Survey](https://link.springer.com/chapter/10.1007/978-981-16-3783-4_5)
+- [Epidemiology Forecasting of COVID-19 Using AI—A Survey](https://link.springer.com/chapter/10.1007/978-981-16-3783-4_5) (Chapter 5)
 
 (11/9/2021) Environmental Research
 
