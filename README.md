@@ -2,7 +2,7 @@
   
 Ph.D. Student | Deep- and machine-learning enthusiast 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/dunfrey)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/dunfrey)
 
 
 # 🌟 Latest Publications 🌟
