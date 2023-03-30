@@ -7,6 +7,11 @@ Ph.D. Student | Deep- and machine-learning enthusiast
 
 # 🌟 Latest Publications 🌟
 
+(8/3/2023) International Journal of Environmental Research and Public Health
+
+- [COVID-19 Patterns in Araraquara, Brazil: A Multimodal Analysis](https://www.mdpi.com/1660-4601/20/6/4740)
+
+
 (1/4/2022) Springer - Disruptive Technologies and Digital Transformations for Society 5.0
 
 - [Epidemiology Forecasting of COVID-19 Using AI—A Survey](https://link.springer.com/chapter/10.1007/978-981-16-3783-4_5) (Chapter 5)
