@@ -7,6 +7,10 @@ Ph.D. Student | Deep- and machine-learning enthusiast
 
 # 🌟 Latest Publications 🌟
 
+(27/6/2023) 2023 30th International Conference on Systems, Signals and Image Processing (IWSSIP)
+
+- [Comparing image processing techniques for bubble separation and counting in underwater leaks](https://ieeexplore.ieee.org/abstract/document/10180297)
+
 (8/3/2023) International Journal of Environmental Research and Public Health
 
 - [COVID-19 Patterns in Araraquara, Brazil: A Multimodal Analysis](https://www.mdpi.com/1660-4601/20/6/4740)
